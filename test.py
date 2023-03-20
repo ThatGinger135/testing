@@ -1,0 +1,1 @@
+print(SECRET_THING)
