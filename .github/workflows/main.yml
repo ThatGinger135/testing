@@ -16,5 +16,5 @@ jobs:
       with:
         target-url: ${{ secrets.TARGET_URL }}
         target-username: ${{ secrets.TARGET_USERNAME }}
-        target-token: ${{ secrets.ACCESS\_TOKEN }}
+        target-token: ${{ secrets.ACCESS_TOKEN }}
 
